@@ -1,5 +1,11 @@
 # Travels
 Bus and flight Travels Booking
+Its a booking software for travell agents to manage their bus, flight booking details more effeciently.
+visual basic project code 
+sql server 2014 
+html print 
+card print 
+sms options
 !!!! CHANGE THE ICONS AND  IMAGES BECAUSE THESE IMAGES MAY BE COPYRIGHT PROTECTED
 !!!!USE THE IMAGES UNDER YOUR OWN RISK I AM NOT RESPONSIBLE FOR ANY ISSUES RELATED TO COPYRIGHT ISSUES
 
